@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unaxuexu.github.io/MOl/sitemap_index.txt
+Sitemap: https://unaxuexu.github.io/PIG/sitemap_index.txt
+Sitemap: https://unaxuexu.github.io/jdv/sitemap_index.txt
+Sitemap: https://unaxuexu.github.io/klf/sitemap_index.txt
